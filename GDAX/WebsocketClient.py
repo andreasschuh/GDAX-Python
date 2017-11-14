@@ -4,6 +4,9 @@
 #
 # Template object to receive messages from the GDAX Websocket Feed
 
+
+# adding test line for github test
+
 import json, time
 from   threading import Thread
 from   websocket import create_connection
